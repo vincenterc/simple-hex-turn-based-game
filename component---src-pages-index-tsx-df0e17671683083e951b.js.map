@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.tsx"],"names":[],"mappings":"2FAAA,gCAEe,4BAAM","file":"component---src-pages-index-tsx-df0e17671683083e951b.js","sourcesContent":["import React from 'react'\r\n\r\nexport default () => <h1>Simple Hex Turn Based Game</h1>\r\n"],"sourceRoot":""}
